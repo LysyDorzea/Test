@@ -4,4 +4,3 @@ __pycache__/
 .env
 *.secret
 *.pdf
-TG_bot/
