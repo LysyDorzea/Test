@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eca40a7-204f-483d-8702-e454aaacc560" name="Changes" comment="Game Bot TG" />
+    <list default="true" id="1eca40a7-204f-483d-8702-e454aaacc560" name="Changes" comment="Game Bot TG">
+      <change beforePath="$PROJECT_DIR$/GameTG_bot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameTG_bot/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,7 @@
       <workItem from="1746605616405" duration="5000" />
       <workItem from="1746607343311" duration="3353000" />
       <workItem from="1746610705333" duration="31000" />
-      <workItem from="1746610740704" duration="1094000" />
+      <workItem from="1746610740704" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="Game Bot TG">
       <option name="closed" value="true" />
@@ -134,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746611533229</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Game Bot TG">
+      <option name="closed" value="true" />
+      <created>1746612102163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746612102163</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -13,7 +13,7 @@ Loser = 'You lost!\n Better luck next time 😉 '
 Raffle = 'It\'s a tie!\n Try again 😎 '
 
 # Create the Telegram bot
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot(' ')
 
 
 # Create the bot/start function
