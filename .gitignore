@@ -4,6 +4,6 @@ __pycache__/
 .env
 *.secret
 *.pdf
-.idea
-.gitignore
-.TG_bot/
+
+
+.TG_bot/.idea/.gitignore
